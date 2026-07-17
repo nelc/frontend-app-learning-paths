@@ -1,3 +1,10 @@
+@import "~@edx/frontend-component-header/dist/index";
+@import "~@edx/frontend-component-footer/dist/_footer";
+
+@import "@edx/brand/paragon/fonts";
+@import "@edx/brand/paragon/variables";
+@import "@edx/brand/paragon/overrides";
+
 :root {
   --crimson: #821122;
   --m-teal: #00a69c;

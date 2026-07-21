@@ -18,7 +18,7 @@ import Dashboard from './learningpath/Dashboard';
 import LearningPathDetailPage from './learningpath/LearningPathDetails';
 import CourseDetailPage from './learningpath/CourseDetails';
 
-import './index.css';
+import './index.scss';
 import './setupConsoleOverride';
 
 subscribe(APP_READY, () => {
